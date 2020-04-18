@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTNAME:MIHA
 
-#EXTINF:0,SLO 1
+#EXTINF:0,tvg-name="SLO 1 HD",SLO 1
 #EXTTV:Slovenski;;SLO 1 HD;SLO_1.png
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/SLO1HD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,SLO 2
+#EXTINF:0,tvg-name="SLO 2 HD",SLO 2
 #EXTTV:Slovenski;;SLO 2 HD;SLO_2.png
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/SLO2HD/stream_iptv_2000k.m3u8
@@ -26,12 +26,12 @@ https://mobia.si/ts/PLANET2HD/stream_iptv_2000k.m3u8
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/PLANETPLUSHD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,POP TV
+#EXTINF:0,tvg-name="POP TV HD",POP TV
 #EXTTV:Slovenski;;POP TV HD;POP_TV.png
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/POPTVHD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,Kanal A
+#EXTINF:0,tvg-name="Kanal A HD",Kanal A
 #EXTTV:Slovenski;;Kanal A HD;Kanal_A.png
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/AKANALHD/stream_iptv_2000k.m3u8
