@@ -1,0 +1,196 @@
+#EXTM3U
+#EXTNAME:MIHA
+
+#EXTINF:0,SLO 1
+#EXTTV:Slovenski;;SLO 1 HD;SLO_1.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/SLO1HD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,SLO 2
+#EXTTV:Slovenski;;SLO 2 HD;SLO_2.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/SLO2HD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,Planet TV
+#EXTTV:Slovenski;;Planet TV HD;Planet_TV.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/PLANETTVHD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,Planet 2
+#EXTTV:Slovenski;;Planet TV 2 HD;Planet_2.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/PLANET2HD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,Planet Plus
+#EXTTV:Filmski;;Planet Plus HD;Planet_Plus.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/PLANETPLUSHD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,POP TV
+#EXTTV:Slovenski;;POP TV HD;POP_TV.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/POPTVHD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,Kanal A
+#EXTTV:Slovenski;;Kanal A HD;Kanal_A.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/AKANALHD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,TV3 Medias
+#EXTTV:Slovenski;;TV3 Medias;TV_3.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/PinkTV3/stream_iptv_2000k.m3u8
+
+#EXTINF:0,Sponka Gold TV
+#EXTTV:Slovenski;;Gold TV;Sponka_Gold.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/GOLDTV/stream_iptv_2000k.m3u8
+
+#EXTINF:0,Vaš kanal
+#EXTTV:Slovenski;;Vaš Kanal;Vas_kanal.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/VASKANAL/stream_iptv_2000k.m3u8
+
+#EXTINF:0,POP Brio
+#EXTTV:Slovenski;;Brio HD;POP_Brio.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/BRIOHD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,POP Kino
+#EXTTV:Filmski;;Kino HD;POP_Kino.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/POPKINOHD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,HBO
+#EXTTV:Filmski;;HBO HD;HBO.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/HBO/stream_iptv_2000k.m3u8
+
+#EXTINF:0,HBO 2
+#EXTTV:Filmski;;HBO 2 HD;HBO_2.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/HBOC/stream_iptv_2000k.m3u8
+
+#EXTINF:0,HBO 3
+#EXTTV:Filmski;;HBO 3 HD;HBO_3.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/HBO3/stream_iptv_2000k.m3u8
+
+#EXTINF:0,CineStar Premiere 1
+#EXTTV:Filmski;;CineStar Premiere 1 HD;CineStar_TV_Premiere_1.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/CINESTARPR1/stream_iptv_2000k.m3u8
+
+#EXTINF:0,CineStar Premiere 2
+#EXTTV:Filmski;;CineStar Premiere 2 HD;CineStar_TV_Premiere_2.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/CINESTARPR2/stream_iptv_2000k.m3u8
+
+#EXTINF:0,TV1000
+#EXTTV:Filmski;;TV 1000;TV1000.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/TV1000/stream_iptv_2000k.m3u8
+
+#EXTINF:0,Epic Drama
+#EXTTV:Filmski;;Epic Drama;Epic_Drama.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/EPICDRAMA/stream_iptv_2000k.m3u8
+
+#EXTINF:0,FOX
+#EXTTV:Filmski;;FOX HD;FOX.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/FOX/stream_iptv_2000k.m3u8
+
+#EXTINF:0,FOX Movies
+#EXTTV:Filmski;;FOX Movies HD;FOX_Movies.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/FOXMOVIES/stream_iptv_2000k.m3u8
+
+#EXTINF:0,FOX Life
+#EXTTV:Filmski;;FOX Life HD;FOX_Life.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/FoxLife/stream_iptv_2000k.m3u8
+
+#EXTINF:0,FOX Crime
+#EXTTV:Filmski;;FOX Crime HD;FOX_Crime.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/FoxCrime/stream_iptv_2000k.m3u8
+
+#EXTINF:0,AMC
+#EXTTV:HD;;AMC;AMC_HD.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/MGM/stream_iptv_2000k.m3u8
+
+#EXTINF:0,National Geographic
+#EXTTV:Dokumentarni;;National Geographic HD;National_Geographic.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/NATGEOHD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,National Geographic Wild
+#EXTTV:Dokumentarni;;National Geographic Wild HD;National_Geographic_Wild.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/NatGeoW/stream_iptv_2000k.m3u8
+
+#EXTINF:0,Discovery Channel
+#EXTTV:Dokumentarni;;Discovery Channel;Discovery_Channel.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/Discovery/stream_iptv_2000k.m3u8
+
+#EXTINF:0,Discovery Science
+#EXTTV:Dokumentarni;;Discovery Science;SCI.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/DISCSCIHD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,History Channel
+#EXTTV:Dokumentarni;;History Channel HD;History_Channel.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/HISTORYHD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,Travel Channel
+#EXTTV:Dokumentarni;;Travel Channel HD;Travel_Channel.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/TRAVELHD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,Šport TV 1
+#EXTTV:Športni;;Šport TV 1 HD;Sport_TV.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/SPORTTVHD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,Šport TV 2
+#EXTTV:Športni;;Šport TV 2 HD;Sport_TV_2.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/SPORTTV2HD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,Šport TV 3
+#EXTTV:Športni;;Šport TV 3 HD;Sport_TV_3.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/SPORTTV3HD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,Eurosport 1
+#EXTTV:HD;;Eurosport;Eurosport_1_HD.png
+#EXTVLCOPT:http-user-agent=AppleCoreMedia
+https://mobia.si/ts/EUROSPORTHD/stream_iptv_2000k.m3u8
+
+#EXTINF:0,Radio Aktual
+#EXTTV:Radio;;;Radio_Aktual.png
+https://live.radio.si/Aktual
+
+#EXTINF:0,Radio 1
+#EXTTV:Radio;;;Radio_1.png
+https://live.radio.si/Radio1
+
+#EXTINF:0,Radio 2
+#EXTTV:Radio;;;Radio_2.png
+https://live.radio.si/Radio2
+
+#EXTINF:0,Radio Slovenija 1
+#EXTTV:Radio;;;Radio_Slovenija_1.png
+https://mp3.rtvslo.si/ra1
+
+#EXTINF:0,Val 202
+#EXTTV:Radio;;;Val_202.png
+https://mp3.rtvslo.si/val202
+
+#EXTINF:0,Radio SI
+#EXTTV:Radio;;;Radio_Slovenia_International.png
+https://mp3.rtvslo.si/rsi
