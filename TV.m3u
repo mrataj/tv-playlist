@@ -1,156 +1,156 @@
 #EXTM3U
 #EXTNAME:MIHA
 
-#EXTINF:-1 tvg-id="SLO 1 HD" tvg-name="SLO 1 HD" tvg-logo="SLO_1_HD.png",SLO 1
+#EXTINF:-1 group-title="Slovenski;HD" tvg-id="SLO 1 HD" tvg-name="SLO 1 HD" tvg-logo="SLO_1_HD.png",SLO 1
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/SLO1HD/stream_iptv_2000k.m3u8
 
-#EXTINF:-1 tvg-id="SLO 2 HD" tvg-name="SLO 2 HD" tvg-logo="SLO_2_HD.png",SLO 2
+#EXTINF:-1 group-title="Slovenski;HD" tvg-id="SLO 2 HD" tvg-name="SLO 2 HD" tvg-logo="SLO_2_HD.png",SLO 2
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/SLO2HD/stream_iptv_2000k.m3u8
 
-#EXTINF:-1 tvg-id="Planet TV HD" tvg-name="Planet TV HD",Planet TV
+#EXTINF:-1 group-title="Slovenski;HD" tvg-id="Planet TV HD" tvg-name="Planet TV HD" tvg-logo="Planet_TV_HD.png",Planet TV
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/PLANETTVHD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,Planet 2
+#EXTINF:-1 group-title="Slovenski;HD" tvg-id="Planet TV 2 HD" tvg-name="Planet TV 2 HD" tvg-logo="Planet_2_HD.png",Planet 2
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/PLANET2HD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,Planet Plus
+#EXTINF:-1 group-title="Slovenski;HD" tvg-id="Planet Plus HD" tvg-name="Planet Plus HD" tvg-logo="Planet_Plus_HD.png",Planet Plus
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/PLANETPLUSHD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,tvg-id="POP TV HD",POP TV
+#EXTINF:-1 group-title="Slovenski;HD" tvg-id="POP TV HD" tvg-name="POP TV HD" tvg-logo="POP_TV_HD.png",POP TV
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/POPTVHD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,tvg-id="Kanal A HD",Kanal A
+#EXTINF:-1 group-title="Slovenski;HD" tvg-id="Kanal A HD" tvg-name="Kanal A HD" tvg-logo="Kanal_A_HD.png",Kanal A
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/AKANALHD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,TV3 Medias
+#EXTINF:-1 group-title="Slovenski;HD" tvg-id="TV3 Medias" tvg-name="TV3 Medias" tvg-logo="TV_3_HD.png",TV3 Medias
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/PinkTV3/stream_iptv_2000k.m3u8
 
-#EXTINF:0,Sponka Gold TV
+#EXTINF:-1 group-title="Slovenski;HD" tvg-id="Gold TV" tvg-name="Gold TV" tvg-logo="Sponka_Gold.png",Sponka Gold TV
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/GOLDTV/stream_iptv_2000k.m3u8
 
-#EXTINF:0,Vaš kanal
+#EXTINF:-1 group-title="Slovenski" tvg-id="Vaš Kanal" tvg-name="Vaš Kanal" tvg-logo="Vas_kanal.png",Vaš kanal
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/VASKANAL/stream_iptv_2000k.m3u8
 
-#EXTINF:0,POP Brio
+#EXTINF:-1 group-title="Slovenski;HD;Filmski" tvg-id="Brio HD" tvg-name="Brio HD" tvg-logo="POP_Brio_HD.png",POP Brio
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/BRIOHD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,POP Kino
+#EXTINF:-1 group-title="Filmski;HD" tvg-id="Kino HD" tvg-name="Kino HD" tvg-logo="POP_Kino_HD.png",POP Kino
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/POPKINOHD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,HBO
+#EXTINF:-1 group-title="Filmski" tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="HBO.png",HBO
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/HBO/stream_iptv_2000k.m3u8
 
-#EXTINF:0,HBO 2
+#EXTINF:-1 group-title="Filmski" tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="HBO_2.png",HBO 2
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/HBOC/stream_iptv_2000k.m3u8
 
-#EXTINF:0,HBO 3
+#EXTINF:-1 group-title="Filmski" tvg-id="HBO 3 HD" tvg-name="HBO 3 HD" tvg-logo="HBO_3.png",HBO 3
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/HBO3/stream_iptv_2000k.m3u8
 
-#EXTINF:0,CineStar Premiere 1
+#EXTINF:-1 group-title="Filmski;HD" tvg-id="CineStar Premiere 1 HD" tvg-name="CineStar Premiere 1 HD" tvg-logo="CineStar_TV_Premiere_1_HD.png",CineStar Premiere 1
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/CINESTARPR1/stream_iptv_2000k.m3u8
 
-#EXTINF:0,CineStar Premiere 2
+#EXTINF:-1 group-title="Filmski;HD" tvg-id="CineStar Premiere 2 HD" tvg-name="CineStar Premiere 2 HD" tvg-logo="CineStar_TV_Premiere_2_HD.png",CineStar Premiere 2
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/CINESTARPR2/stream_iptv_2000k.m3u8
 
-#EXTINF:0,TV1000
+#EXTINF:-1 group-title="Filmski" tvg-id="TV 1000" tvg-name="TV 1000" tvg-logo="TV1000.png",TV1000
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/TV1000/stream_iptv_2000k.m3u8
 
-#EXTINF:0,Epic Drama
+#EXTINF:-1 group-title="Filmski;HD" tvg-id="Epic Drama" tvg-name="Epic Drama" tvg-logo="Epic_Drama_HD.png",Epic Drama
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/EPICDRAMA/stream_iptv_2000k.m3u8
 
-#EXTINF:0,FOX
+#EXTINF:-1 group-title="Filmski" tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="FOX.png",FOX
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/FOX/stream_iptv_2000k.m3u8
 
-#EXTINF:0,FOX Movies
+#EXTINF:-1 group-title="Filmski" tvg-id="FOX Movies HD" tvg-name="FOX Movies HD" tvg-logo="FOX_Movies.png",FOX Movies
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/FOXMOVIES/stream_iptv_2000k.m3u8
 
-#EXTINF:0,FOX Life
+#EXTINF:-1 group-title="Filmski" tvg-id="FOX Life HD" tvg-name="FOX Life HD" tvg-logo="FOX_Life.png",FOX Life
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/FoxLife/stream_iptv_2000k.m3u8
 
-#EXTINF:0,FOX Crime
+#EXTINF:-1 group-title="Filmski" tvg-id="FOX Crime HD" tvg-name="FOX Crime HD" tvg-logo="FOX_Crime.png",FOX Crime
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/FoxCrime/stream_iptv_2000k.m3u8
 
-#EXTINF:0,AMC
+#EXTINF:-1 group-title="Filmski;HD" tvg-id="AMC" tvg-name="AMC" tvg-logo="AMC_HD.png",AMC
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/MGM/stream_iptv_2000k.m3u8
 
-#EXTINF:0,National Geographic
+#EXTINF:-1 group-title="Dokumentarni;HD" tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="National_Geographic.png",National Geographic
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/NATGEOHD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,National Geographic Wild
+#EXTINF:-1 group-title="Dokumentarni;HD" tvg-id="National Geographic Wild HD" tvg-name="National Geographic Wild HD" tvg-logo="National_Geographic_Wild.png",National Geographic Wild
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/NatGeoW/stream_iptv_2000k.m3u8
 
-#EXTINF:0,Discovery Channel
+#EXTINF:-1 group-title="Dokumentarni;HD" tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="Discovery_Channel_HD.png",Discovery Channel
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/Discovery/stream_iptv_2000k.m3u8
 
-#EXTINF:0,Discovery Science
+#EXTINF:-1 group-title="Dokumentarni;HD" tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="SCI_HD.png",Discovery Science
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/DISCSCIHD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,History Channel
+#EXTINF:-1 group-title="Dokumentarni;HD" tvg-id="History Channel HD" tvg-name="History Channel HD" tvg-logo="History_Channel_HD.png",History Channel
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/HISTORYHD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,Travel Channel
+#EXTINF:-1 group-title="Dokumentarni;HD" tvg-id="Travel Channel HD" tvg-name="Travel Channel HD" tvg-logo="Travel_Channel_HD.png",Travel Channel
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/TRAVELHD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,Šport TV 1
+#EXTINF:-1 group-title="Slovenski;Športni;HD" tvg-id="Šport TV 1 HD" tvg-name="Šport TV 1 HD" tvg-logo="Sport_TV.png",Šport TV 1
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/SPORTTVHD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,Šport TV 2
+#EXTINF:-1 group-title="Slovenski;Športni;HD" tvg-id="Šport TV 2 HD" tvg-name="Šport TV 2 HD" tvg-logo="Sport_TV_2.png",Šport TV 2
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/SPORTTV2HD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,Šport TV 3
+#EXTINF:-1 group-title="Slovenski;Športni;HD" tvg-id="Šport TV 3 HD" tvg-name="Šport TV 3 HD" tvg-logo="Sport_TV_3.png",Šport TV 3
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/SPORTTV3HD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,Eurosport 1
+#EXTINF:-1 group-title="Športni;HD" tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="Eurosport_1_HD.png",Eurosport 1
 #EXTVLCOPT:http-user-agent=AppleCoreMedia
 https://mobia.si/ts/EUROSPORTHD/stream_iptv_2000k.m3u8
 
-#EXTINF:0,group-title="radio" radio="true",Radio Aktual
+#EXTINF:-1 group-title="radio" radio="true",Radio Aktual
 https://live.radio.si/Aktual
 
-#EXTINF:0,group-title="radio" radio="true",Radio 1
+#EXTINF:-1 group-title="radio" radio="true",Radio 1
 https://live.radio.si/Radio1
 
-#EXTINF:0,group-title="radio" radio="true",Radio 2
+#EXTINF:-1 group-title="radio" radio="true",Radio 2
 https://live.radio.si/Radio2
 
-#EXTINF:0,group-title="radio" radio="true",Radio Slovenija 1
+#EXTINF:-1 group-title="radio" radio="true",Radio Slovenija 1
 https://mp3.rtvslo.si/ra1
 
-#EXTINF:0,group-title="radio" radio="true",Val 202
+#EXTINF:-1 group-title="radio" radio="true",Val 202
 https://mp3.rtvslo.si/val202
 
-#EXTINF:0,group-title="radio" radio="true",Radio SI
+#EXTINF:-1 group-title="radio" radio="true",Radio SI
 https://mp3.rtvslo.si/rsi
